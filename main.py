@@ -1,8 +1,8 @@
 import os
 import logging
-# from src.shapesheet.pre_process import preprocessor
-# from src.shapesheet.model import ClassificationModel
-from src.shapesheet.prediction import predict
+# from shapesheet.pre_process import preprocessor
+# from shapesheet.model import ClassificationModel
+from shapesheet.prediction import predict
 from datetime import datetime, timedelta
 import pandas as pd
 import logging
