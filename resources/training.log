@@ -1,0 +1,62 @@
+2021-09-01 03:50:04,874:INFO:Trying to Download required apex library for mixed precision
+2021-09-01 03:52:19,545:INFO:Trying to Download required apex library for mixed precision
+2021-09-01 03:53:54,379:INFO:Trying to Download required apex library for mixed precision
+2021-09-01 03:58:18,046:INFO:Trying to Download required apex library for mixed precision
+2021-09-01 03:59:47,321:INFO:Trying to Download required apex library for mixed precision
+2021-09-01 04:00:51,014:INFO:Lock 5990690672 acquired on /Users/lade/.cache/huggingface/transformers/3c61d016573b14f7f008c02c4e51a366c67ab274726fe2910691e2a761acf43e.37395cee442ab11005bcd270f3c34464dc1704b715b5d7d52b1a461abe3b9e4e.lock
+2021-09-01 04:00:51,502:INFO:Lock 5990690672 released on /Users/lade/.cache/huggingface/transformers/3c61d016573b14f7f008c02c4e51a366c67ab274726fe2910691e2a761acf43e.37395cee442ab11005bcd270f3c34464dc1704b715b5d7d52b1a461abe3b9e4e.lock
+2021-09-01 04:01:34,272:INFO:Lock 11034109168 acquired on /Users/lade/.cache/huggingface/transformers/a8041bf617d7f94ea26d15e218abd04afc2004805632abc0ed2066aa16d50d04.faf6ea826ae9c5867d12b22257f9877e6b8367890837bd60f7c54a29633f7f2f.lock
+2021-09-01 04:02:06,975:INFO:Lock 11034109168 released on /Users/lade/.cache/huggingface/transformers/a8041bf617d7f94ea26d15e218abd04afc2004805632abc0ed2066aa16d50d04.faf6ea826ae9c5867d12b22257f9877e6b8367890837bd60f7c54a29633f7f2f.lock
+2021-09-01 04:02:08,828:INFO:Lock 11039984800 acquired on /Users/lade/.cache/huggingface/transformers/45c3f7a79a80e1cf0a489e5c62b43f173c15db47864303a55d623bb3c96f72a5.d789d64ebfe299b0e416afc4a169632f903f693095b4629a7ea271d5a0cf2c99.lock
+2021-09-01 04:02:09,675:INFO:Lock 11039984800 released on /Users/lade/.cache/huggingface/transformers/45c3f7a79a80e1cf0a489e5c62b43f173c15db47864303a55d623bb3c96f72a5.d789d64ebfe299b0e416afc4a169632f903f693095b4629a7ea271d5a0cf2c99.lock
+2021-09-01 04:02:10,966:INFO:Lock 11039984560 acquired on /Users/lade/.cache/huggingface/transformers/c1d7f0a763fb63861cc08553866f1fc3e5a6f4f07621be277452d26d71303b7e.20430bd8e10ef77a7d2977accefe796051e01bc2fc4aa146bc862997a1a15e79.lock
+2021-09-01 04:02:11,410:INFO:Lock 11039984560 released on /Users/lade/.cache/huggingface/transformers/c1d7f0a763fb63861cc08553866f1fc3e5a6f4f07621be277452d26d71303b7e.20430bd8e10ef77a7d2977accefe796051e01bc2fc4aa146bc862997a1a15e79.lock
+2021-09-01 04:02:11,841:INFO:Lock 11039985088 acquired on /Users/lade/.cache/huggingface/transformers/534479488c54aeaf9c3406f647aa2ec13648c06771ffe269edabebd4c412da1d.7f2721073f19841be16f41b0a70b600ca6b880c8f3df6f3535cbc704371bdfa4.lock
+2021-09-01 04:02:12,791:INFO:Lock 11039985088 released on /Users/lade/.cache/huggingface/transformers/534479488c54aeaf9c3406f647aa2ec13648c06771ffe269edabebd4c412da1d.7f2721073f19841be16f41b0a70b600ca6b880c8f3df6f3535cbc704371bdfa4.lock
+2021-09-01 04:02:13,375:INFO:Training and evaluating model with trainset and evalset data...
+2021-09-01 04:02:13,389:INFO: ---- Deleting training dataframe loader ---- 
+2021-09-01 04:02:13,474:INFO: Converting to features started. Cache is not used.
+2021-09-01 04:02:13,474:INFO: Sliding window enabled
+2021-09-01 04:02:19,344:INFO: 8591 features created from 7200 samples.
+2021-09-01 04:02:19,396:INFO: ---- Deleting training example ---- 
+2021-09-01 07:55:24,619:INFO: Training of bert model complete. Saved to models.
+2021-09-01 07:55:24,895:INFO: ---- Deleting evaluation dataframe loader ---- 
+2021-09-01 07:55:26,417:INFO: Converting to features started. Cache is not used.
+2021-09-01 07:55:26,418:INFO: Sliding window enabled
+2021-09-01 07:55:31,439:INFO: 810 features created from 810 samples.
+2021-09-01 07:59:15,905:INFO: ---- Deleting evaluation example ---- 
+2021-09-01 07:59:16,144:INFO:{'mcc': 0.8205129809697863, 'eval_loss': 0.2584553329137767}
+2021-09-01 08:36:18,067:INFO: ---- Deleting evaluation dataframe loader ---- 
+2021-09-01 08:36:18,115:INFO: Converting to features started. Cache is not used.
+2021-09-01 08:36:18,115:INFO: Sliding window enabled
+2021-09-01 08:36:21,704:INFO: 810 features created from 810 samples.
+2021-09-01 08:39:40,572:INFO: ---- Deleting evaluation example ---- 
+2021-09-01 08:39:40,735:INFO:{'mcc': 0.8183469158321159, 'eval_loss': 0.2567392813927326}
+2021-09-01 08:40:52,825:INFO: ---- Deleting evaluation dataframe loader ---- 
+2021-09-01 08:40:52,907:INFO: Converting to features started. Cache is not used.
+2021-09-01 08:40:52,907:INFO: Sliding window enabled
+2021-09-01 08:40:56,646:INFO: 810 features created from 810 samples.
+2021-09-01 08:42:59,636:INFO: ---- Deleting evaluation dataframe loader ---- 
+2021-09-01 08:42:59,691:INFO: Converting to features started. Cache is not used.
+2021-09-01 08:42:59,691:INFO: Sliding window enabled
+2021-09-01 08:43:02,771:INFO: 810 features created from 810 samples.
+2021-09-01 08:46:03,163:INFO: ---- Deleting evaluation example ---- 
+2021-09-01 08:46:03,300:INFO:{'Class-wise Accuracy': [('non_title', 0.8567901234567902), ('title', 0.9851851851851852)], 'Accuracy': 0.9209876543209876, 'Precision': 0.9280440860148401, 'Recall': 0.9209876543209876, 'F1-Score': 0.9206606713233629, 'mcc': 0.8490024162918702, 'eval_loss': 0.23484173646105116}
+2021-09-01 12:58:06,022:INFO: ---- Deleting evaluation dataframe loader ---- 
+2021-09-01 12:58:06,078:INFO: Converting to features started. Cache is not used.
+2021-09-01 12:58:06,078:INFO: Sliding window enabled
+2021-09-01 12:58:14,246:INFO: 810 features created from 810 samples.
+2021-09-01 13:01:55,376:INFO: ---- Deleting evaluation example ---- 
+2021-09-01 13:01:55,625:INFO:{'Class-wise Accuracy': [('non_title', 0.8395061728395061), ('title', 0.9851851851851852)], 'Accuracy': 0.9123456790123456, 'Precision': 0.9212863763205102, 'Recall': 0.9123456790123456, 'F1-Score': 0.9118781402318965, 'mcc': 0.8335841094995308, 'eval_loss': 0.24602921062805613}
+2021-09-01 13:01:55,626:INFO: Converting to features started. Cache is not used.
+2021-09-01 13:01:55,626:INFO: Sliding window enabled
+2021-09-01 13:01:59,155:INFO: 1 features created from 1 samples.
+2021-09-01 15:42:24,592:INFO: Converting to features started. Cache is not used.
+2021-09-01 15:42:24,593:INFO: Sliding window enabled
+2021-09-01 15:42:27,854:INFO: 1 features created from 1 samples.
+2021-09-01 16:26:15,122:INFO: Converting to features started. Cache is not used.
+2021-09-01 16:26:15,122:INFO: Sliding window enabled
+2021-09-01 16:26:23,302:INFO: 1 features created from 1 samples.
+2021-09-01 16:27:15,583:INFO: Converting to features started. Cache is not used.
+2021-09-01 16:27:15,583:INFO: Sliding window enabled
+2021-09-01 16:27:21,989:INFO: 1 features created from 1 samples.
