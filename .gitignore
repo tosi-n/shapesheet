@@ -123,10 +123,7 @@ Thumbs.db
 *.mov
 *.wmv
 
-resources/models/
-resource/Data/
-resource/selected/
-resource/biobert/
+# resources
 
 __pycache__
 data/*

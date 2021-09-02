@@ -26,7 +26,7 @@ setup(
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,
-    url="https://bitbucket.org/logicallydevs/shapesheet",
+    url="https://github.com/tosi-n/shapesheet.git",
     packages=find_packages(),
     install_requires=REQUIREMENTS,
     keywords=['python', 'document', 'pdf', 'parser', 'extraction', 'title'],

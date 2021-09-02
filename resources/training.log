@@ -60,3 +60,6 @@
 2021-09-01 16:27:15,583:INFO: Converting to features started. Cache is not used.
 2021-09-01 16:27:15,583:INFO: Sliding window enabled
 2021-09-01 16:27:21,989:INFO: 1 features created from 1 samples.
+2021-09-02 15:57:21,252:INFO: Converting to features started. Cache is not used.
+2021-09-02 15:57:21,252:INFO: Sliding window enabled
+2021-09-02 15:57:33,195:INFO: 1 features created from 1 samples.
