@@ -17,17 +17,11 @@ A package that allows for the extraction of title section from styled pdf docume
 ### Getting Started
 
   git clone https://github.com/tosi-n/shapesheet.git
-
   cd shapesheet/
-
   pip install gdown
-
   mkdir ./models
-
   gdown --id 1T8dNmCXY9Jc8NCVxh5vK042Aguufd5vN --output models.zip
-
   unzip models.zip -d ./models && rm models.zip
-  
   python setup.py install
 
 
