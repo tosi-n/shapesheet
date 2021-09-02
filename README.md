@@ -28,7 +28,7 @@ A package that allows for the extraction of title section from styled pdf docume
 
 ### Usage
 
-Shapesheet was built with the use of huggingface single bert transformer architecture for concatenating and encoding multuiple title and other title formated style features. In order to predict and extract title sections efficiently from a document
+Shapesheet was built with the use of huggingface single bert transformer architecture for concatenating and encoding multiple title and other title formatted style features. In order to predict and extract title sections efficiently from a document
 
     from shapesheet.prediction import predict
     title_predict, prediction_confidence = predict(Text, IsBold, IsItalic, IsUnderlined, Left, Right, Top, Bottom, FontType)
