@@ -33,7 +33,6 @@ from sklearn.metrics import (
 )
 from tqdm.auto import trange, tqdm
 
-import tensorflow as tf
 from torch.utils.data.distributed import DistributedSampler
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler, TensorDataset
 
